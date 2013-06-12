@@ -1,7 +1,7 @@
 {
   "name": "sham-button",
   "version": "0.0.1",
-  "main": "sham-button.scss",
+  "main": "stylesheets/sham-button.scss",
   "ignore": [
     "**/.*",
     "node_modules",
