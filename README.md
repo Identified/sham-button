@@ -9,5 +9,5 @@ Pass in $color(s), $font-size, and $radius variables for easy customization. Sev
 Feel free to add more with pull requests.
 
 ###Usage
-See http://identified.github.io/sham-button/ for all of the exciting details
+See http://identified.github.io/sham/ for all of the exciting details
 
